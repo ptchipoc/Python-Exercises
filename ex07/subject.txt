@@ -1,0 +1,3 @@
+Exercise 7: ubset or Superset of another set
+Write a code to checks if one set is a subset or superset of another set. If found, delete all elements from that set.
+
