@@ -1,0 +1,2 @@
+Exercise 10: remove duplicates from a list
+Write a code to remove duplicates from a list and create a tuple and find the minimum and maximum number 
