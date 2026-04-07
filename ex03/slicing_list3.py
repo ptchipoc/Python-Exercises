@@ -1,19 +1,19 @@
-# pylint: disable=missing-module-docstring
+# pylint: disable=missing-module-docstring, invalid-name
 
 items = [11, 45, 8, 23, 14, 12, 78, 45, 89]
 
-l1 = items[0:3]
-l2 = items[3:6]
-l3 = items[6:]
+chunk_size = int(len(items) / 3)
+start = 0
+end = chunk_size
 
-print("Chunk 1",l1)
-l1.reverse()
-print("After reversing it", l1)
+for i in range(3):
+    index = slice(start, end)
 
-print("Chunk 2",l2)
-l2.reverse()
-print("After reversing it", l2)
+    chunk = items[index]
+    print("Chunk", i, chunk)
 
-print("Chunk 3",l3)
-l3.reverse()
-print("After reversing it", l1)
+    chunk.reverse()
+    print("After reversing it", chunk)
+
+    start = end
+    end += chunk_size

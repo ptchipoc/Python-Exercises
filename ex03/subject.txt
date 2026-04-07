@@ -1,1 +1,1 @@
-Exercise 2:Slice list into 3 equal chunks and reverse each chunk
+Exercise 3:Slice list into 3 equal chunks and reverse each chunk
