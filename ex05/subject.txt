@@ -1,0 +1,3 @@
+Exercise 5:Paired Elements from Two Lists as a Set
+
+Write a code to create a Python set such that it shows the element from both lists in a pair.
