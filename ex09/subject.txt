@@ -1,0 +1,3 @@
+Exercise 9: Extract Unique Dictionary Values to List
+Write a code to get all values from the dictionary and add them to a list but don’t add duplicates
+
