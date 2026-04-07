@@ -1,0 +1,2 @@
+Exercise 8: Filter List Against Dictionary Values
+Write a program to iterate a given list and check if a given element exists as a key’s value in a dictionary. If not, delete it from the list
