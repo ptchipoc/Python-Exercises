@@ -1,0 +1,2 @@
+Exercise 6: Set Intersection and Removal
+Write a code to find the intersection (common) of two sets and remove those elements from the first set.
