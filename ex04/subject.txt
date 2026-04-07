@@ -1,0 +1,4 @@
+Exercise 4:Slice list into 3 equal chunks and reverse each chunk
+
+Write a program to iterate a given list and count the occurrence of each element and create a dictionary to show the count of each element.
+
